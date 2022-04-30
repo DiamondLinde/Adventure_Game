@@ -7,3 +7,6 @@ The game should have the user make a _choice_ and should play different scenario
 The game should also be able to handle any _unexpected input_.
 
 And lastly the game should give you the option to _play again_ at the ending.
+
+## Running the game
+In order to play the game simply run `python3 adventure_game.py` in the files terminal. 
